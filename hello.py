@@ -1,1 +1,1 @@
-print("VScode is Awesome")
+print("VScodes is Awesome")
